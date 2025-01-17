@@ -11,7 +11,7 @@
 Add the gem to your `Gemfile`:
 
 ```ruby
-gem 'easy_params_enhanced'
+gem 'easy_params_enhanced', git: "https://github.com/Davidzhu001/easy_params"
 ```
 
 Then run:
