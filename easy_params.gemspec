@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = "EasyParams is a lightweight library for Rails applications that provides a DSL for defining and validating parameters, including support for nested attributes and custom validations."
   spec.homepage      = "https://github.com/your_username/easy_params"
   spec.license       = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 3.0.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
   spec.metadata["homepage_uri"]      = spec.homepage
